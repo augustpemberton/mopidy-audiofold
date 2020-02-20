@@ -16,7 +16,7 @@ Vue.component('mini-playback', MiniPlayback);
 
 // setup mopidy
 var mopidy = new Mopidy({
-  webSocketUrl: "ws://192.168.0.37:6680/mopidy/ws/"
+  webSocketUrl: "ws://192.168.0.45:6680/mopidy/ws/"
 });
 Object.defineProperty(Vue.prototype, '$mopidy', { value: mopidy});
 
