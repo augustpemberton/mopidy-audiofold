@@ -61,19 +61,19 @@
 }
 
 .tr-25 {
-  opacity: 75%;
+  opacity: 0.75;
 }
 
 .tr-50 {
-  opacity: 50%;
+  opacity: 0.5;
 }
 
 .tr-75 {
-  opacity: 25%;
+  opacity: 0.25;
 }
 
 .tr-100 {
-  opacity: 0%;
+  opacity: 0;
 }
 
 </style>
