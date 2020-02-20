@@ -1,0 +1,15 @@
+TODO 
+ - move whole queue up or down accordingly
+ - play artists & albums
+
+ - song history
+
+ - loading screen
+
+ - make it look good
+   - queue should have scrolling, look like the IOS time picker (https://docs-assets.developer.apple.com/published/9b72935ec7/d932bb88-19b5-4ce2-bdbe-67298719699d.png)
+
+DONE:
+ - seperate search into soundcloud / spotify
+ - currently playing
+  - display multiple artists
