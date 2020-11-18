@@ -14,7 +14,8 @@ Mopidy-Audiofold
     :target: https://codecov.io/gh/augustpemberton/mopidy-audiofold
     :alt: Test coverage
 
-A good looking mopidy frontend
+A simple frontend for the Mopidy framework, with a clean greyscale aesthetic.
+Made with a DIY home audio system in mind.
 
 
 Installation
