@@ -15,6 +15,7 @@ Mopidy-Audiofold
     :alt: Test coverage
 
 A simple frontend for the Mopidy framework, with a clean greyscale aesthetic.
+Can be used to make a smart speaker that interfaces with the Spotify and Soundcloud APIs.
 Made with a DIY home audio system in mind.
 
 
